@@ -26,3 +26,8 @@ body  {
   font-size: 16px;
   color: #2dede7;
 }
+/* FOOTER */
+.footer--copyright {
+  font-size: 21px;
+  color: #6c7373;
+  text-align: right;
